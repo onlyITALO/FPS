@@ -347,10 +347,10 @@ local StartNumber = _G.WaitPerAmount or 500
 local WaitNumber = _G.WaitPerAmount or 500
 if _G.SendNotifications then
     StarterGui:SetCore("SendNotification", {
-        Title = "DISCORD",
-        Text = "https://discord.gg/wNSVgpazsE",
-        Duration = 15,
-        Button1 = "Okay"
+        Title = "FPS BOOST BY",
+        Text = "onlyITALO_#0000",
+        Duration = math.huge,
+        Button1 = "Ok"
     })
 end
 if _G.ConsoleLogs then
