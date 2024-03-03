@@ -367,10 +367,10 @@ for i, v in pairs(Descendants) do
     end
 end
 StarterGui:SetCore("SendNotification", {
-    Title = "onlyITALO_",
-    Text = "ENTRE NO SERVIDOR ;)",
+    Title = "ROBLUE",
+    Text = "https://discord.gg/wNSVgpazsE",
     Duration = math.huge,
-    Button1 = "O"
+    Button1 = "Ok"
 })
 warn("FPS Booster Loaded!")
 --game.DescendantAdded:Connect(CheckIfBad)
